@@ -3,23 +3,14 @@ import java.util.Random;
 
 public class Program {
     public static void main(String[] args) {
-
-
-        int[] arr1 = {1,2,3,4};
-
         int[][] matrix1 = new int[5][5];
         int[][] matrix4 = new int[5][6];
 
-
-
         int[] array1 = new int[4];
-
         Matrix array2 =new Matrix();
 
 
         showMatrix(matrix1);
-
-
         int[][] matrix3 = new int[][]{{1,2,3,4,5},{1,2,3,4},{1,2,3,4,5},{1,2,3,4,5},{1,2,3,4,5}};
 
         Matrix matrix2 = new Matrix();
