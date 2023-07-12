@@ -6,7 +6,7 @@ public class Program {
         int[][] matrix1 = new int[5][5];
         int[][] matrix4 = new int[5][6];
 
-        int[] array1 = new int[4];
+        int[] array1 = new int[]{1,2,3,4};
         Matrix array2 =new Matrix();
 
 
